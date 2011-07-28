@@ -1,0 +1,4 @@
+# Fun Codez
+-----------
+
+This repo is filled with stuff that I wrote for fun and profit (of knowledge).
