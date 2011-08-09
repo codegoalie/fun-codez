@@ -26,7 +26,7 @@ timeline.reverse_each do |tweet|
 end
 
 last_tweet_id = timeline.first.id if timeline
-time_to_wait = 3
+time_to_wait = 30
 last_fetch = Time.now
 
 stty_save = `stty -g`.chomp
